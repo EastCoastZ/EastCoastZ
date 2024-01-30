@@ -1,4 +1,4 @@
-这是一个私人账户
+这是一个私人账户EastCoastZ的公开界面
 
 <!---
 EastCoastZ/EastCoastZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
